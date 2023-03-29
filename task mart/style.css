@@ -1,0 +1,33 @@
+.container {
+  background-color: rgb(238, 204, 169);
+}
+.img {
+  width: 100%;
+  text-align: center;
+  margin-top: 35px;
+}
+.img1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.container_h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.underline {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container_class {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sectionn {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,40 @@
+.common {
+  width: 600px;
+  height: 370px;
+  margin: auto;
+  margin-top: 170px;
+  background-color: rgb(255, 125, 78);
+}
+.common_div1 {
+  width: 540px;
+  height: 320px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: yellow;
+}
+.common_div1_div2 {
+  width: 480px;
+  height: 270px;
+  margin-top: 8px;
+  margin-left: 30px;
+  background-color: greenyellow;
+}
+.common_div1_div2_div3 {
+  width: 430px;
+  height: 215px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  background-color: aqua;
+}
+.common_div1_div2_div3_img {
+  width: 430px;
+  height: 150px;
+  margin-top: 14px;
+  background-repeat: no-repeat;
+
+  background-image: url(https://lh5.googleusercontent.com/34ObN7bednoBKATiOLdb9zClK351pWMaHBvgCycwmesM066UYz58watE1Wq4yekQgGBcdYo8k-jbxsU=w1920-h932);
+  background-size: cover;
+ 
+}
